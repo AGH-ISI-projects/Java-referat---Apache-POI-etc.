@@ -1,2 +1,2 @@
 # Java-referat---Apache-POI-etc.
-quick project 
+repo made for working on paper and presentation for Java course at AGH.
